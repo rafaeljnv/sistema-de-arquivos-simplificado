@@ -4,5 +4,11 @@
 *.obj
 *.bin
 
-# Documentacao e relatorios (caso queira manter apenas o codigo e readme no repo)
+# CLion e CMake
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Documentacao e relatorios
 docs/
