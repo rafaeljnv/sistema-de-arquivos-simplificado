@@ -9,7 +9,7 @@
 #define MINIFS_DEFAULT_DISK_FILE "minifs.bin"
 
 /**
- * Responsabilidade: Estudante 1
+ * Responsabilidade: Carlos Alberto Magalhaes Neto (Atribuicao 1)
  * Camada de abstração do disco virtual (arquivo binário em blocos de tamanho fixo).
  */
 

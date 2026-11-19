@@ -4,6 +4,11 @@ Trabalho pratico da disciplina de Sistemas Operacionais (referencia conceitual: 
 
 Implementacao de um sistema de arquivos simplificado sobre disco virtual simulado em arquivo binario (`minifs.bin`), com blocos de tamanho fixo de 512 bytes e alocacao indexada simplificada.
 
+## Integrantes
+
+- **Carlos Alberto Magalhaes Neto**: Atribuicao 1 (Disco virtual, Superblock, Bitmap de blocos) e operacoes de dados/persistencia (`fs_ops`).
+- **Rafael Jeronimo Nunes Vasconcelos**: Atribuicao 2 (Metadados de arquivos, alocacao indexada, `create`/`rm`/`stat`), interface CLI e testes automatizados.
+
 ## Estrutura do Projeto
 
 - `include/`: Arquivos de cabecalho (.h)

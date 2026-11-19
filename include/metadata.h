@@ -4,7 +4,7 @@
 #include "minifs.h"
 
 /**
- * Responsabilidade: Estudante 2
+ * Responsabilidade: Rafael Jeronimo Nunes Vasconcelos (Atribuicao 2)
  * Metadados dos arquivos, referencias aos blocos e operacoes:
  * - create: criacao de arquivos nos metadados
  * - rm: remocao de arquivos e liberacao de blocos
@@ -17,7 +17,7 @@ int metadata_write_inode(uint32_t inode_idx, const minifs_inode_t *inode);
 int metadata_find_by_name(const char *name, uint32_t *out_idx, minifs_inode_t *out_inode);
 int metadata_find_free_slot(uint32_t *out_idx);
 
-/* Operacoes de alto nivel exigidas para o Estudante 2 */
+/* Operacoes de alto nivel implementadas */
 int fs_create(const char *name);
 int fs_rm(const char *name);
 int fs_stat(const char *name);

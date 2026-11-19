@@ -6,7 +6,7 @@
 #include <string.h>
 
 /**
- * Responsabilidade: Estudante 3
+ * Responsabilidade: Carlos Alberto Magalhaes Neto e Rafael Jeronimo Nunes Vasconcelos (Atribuicao 3)
  * Implementacao das operacoes de alto nivel:
  * - format: formatacao do disco e inicializacao das estruturas
  * - write: escrita indexada em blocos de dados

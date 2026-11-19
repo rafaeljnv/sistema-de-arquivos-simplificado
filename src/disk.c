@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * Responsabilidade: Estudante 1
+ * Responsabilidade: Carlos Alberto Magalhaes Neto (Atribuicao 1)
  * Implementacao da camada fisica do disco virtual simulado em arquivo binario.
  */
 

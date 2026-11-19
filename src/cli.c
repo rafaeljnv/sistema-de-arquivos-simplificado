@@ -8,7 +8,7 @@
 #include <ctype.h>
 
 /**
- * Responsabilidade: Estudante 3
+ * Responsabilidade: Rafael Jeronimo Nunes Vasconcelos (Atribuicao 3)
  * Parser e despachante de comandos da interface do MiniFS.
  */
 

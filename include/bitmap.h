@@ -4,7 +4,7 @@
 #include "minifs.h"
 
 /**
- * Responsabilidade: Estudante 1
+ * Responsabilidade: Carlos Alberto Magalhaes Neto (Atribuicao 1)
  * Gerenciamento do Bitmap de blocos.
  * Cada bit representa um bloco do disco:
  * 0 = livre, 1 = ocupado.

@@ -2,7 +2,7 @@
 #define MINIFS_CLI_H
 
 /**
- * Responsabilidade: Estudante 3
+ * Responsabilidade: Rafael Jeronimo Nunes Vasconcelos (Atribuicao 3)
  * Interface de linha de comando (CLI) do MiniFS.
  */
 

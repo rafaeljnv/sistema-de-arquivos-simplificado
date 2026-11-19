@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * Responsabilidade: Estudante 1
+ * Responsabilidade: Carlos Alberto Magalhaes Neto (Atribuicao 1)
  * Implementacao do Bitmap de controle de blocos livres/ocupados.
  */
 

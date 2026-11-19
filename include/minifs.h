@@ -32,7 +32,7 @@ typedef enum {
 /**
  * Superblock do MiniFS (armazenado no Bloco 0 do disco).
  * Ocupa exatamente 1 bloco (512 bytes).
- * Responsabilidade: Estudante 1
+ * Responsabilidade: Carlos Alberto Magalhaes Neto (Atribuicao 1)
  */
 typedef struct {
     uint32_t magic;              /* Identificador do MiniFS (MINIFS_MAGIC) */
@@ -55,7 +55,7 @@ typedef struct {
  * Estrutura de Metadados / Inode do arquivo (Alocacao indexada simplificada).
  * Cada arquivo possui 1 inode com referencias diretas aos blocos de dados alocados.
  * Tamanho: exatamente 128 bytes.
- * Responsabilidade: Estudante 2
+ * Responsabilidade: Rafael Jeronimo Nunes Vasconcelos (Atribuicao 2)
  */
 typedef struct {
     uint32_t id;                          /* Identificador numerico unico */

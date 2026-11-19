@@ -8,7 +8,7 @@
 #include <assert.h>
 
 /**
- * Responsabilidade: Estudante 3
+ * Responsabilidade: Rafael Jeronimo Nunes Vasconcelos (Atribuicao 3)
  * Bateria de Testes Automatizados e Integracao do MiniFS.
  *
  * Valida:
@@ -225,8 +225,8 @@ void test_error_handling(void) {
 int main(void) {
     printf("====================================================\n");
     printf("   MiniFS - BATERIA DE TESTES DE INTEGRACAO         \n");
-    printf("   Estudante 2 (Metadados/Blocos/Create/Rm/Stat)    \n");
-    printf("   Estudante 3 (CLI/Read/Write/Integracao/Testes)   \n");
+    printf("   Carlos Alberto Magalhaes Neto (Disco / Bitmap / E/S)\n");
+    printf("   Rafael Jeronimo Nunes Vasconcelos (Metadados / CLI)\n");
     printf("====================================================\n\n");
 
     test_format();

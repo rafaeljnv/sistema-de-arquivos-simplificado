@@ -4,8 +4,8 @@
 #include "minifs.h"
 
 /**
- * Responsabilidade: Estudante 3
- * Interface de comandos e operacoes:
+ * Responsabilidade: Carlos Alberto Magalhaes Neto e Rafael Jeronimo Nunes Vasconcelos (Atribuicao 3)
+ * Interface de operacoes:
  * - format: formatacao do disco virtual
  * - write: escrita de dados em blocos indexados
  * - read: leitura de dados a partir dos blocos indexados

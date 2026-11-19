@@ -5,7 +5,7 @@
 #include <string.h>
 
 /**
- * Responsabilidade: Estudante 2
+ * Responsabilidade: Rafael Jeronimo Nunes Vasconcelos (Atribuicao 2)
  * Gerenciamento de Metadados dos Arquivos, Referencias aos Blocos de Dados
  * e Operacoes: create, rm, stat.
  */

@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * Responsabilidade: Estudante 3
+ * Responsabilidade: Rafael Jeronimo Nunes Vasconcelos (Atribuicao 3)
  * Ponto de entrada do executavel do MiniFS.
  */
 
