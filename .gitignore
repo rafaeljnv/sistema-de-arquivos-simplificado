@@ -1,0 +1,8 @@
+# Binarios e arquivos de disco gerados
+*.exe
+*.o
+*.obj
+*.bin
+
+# Documentacao e relatorios (caso queira manter apenas o codigo e readme no repo)
+docs/
